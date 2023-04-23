@@ -1,7 +1,7 @@
 # CS50: Introduction to Computer Science
 (Ongoing)
 <p>
-Tutorials for CS50’s Introduction to Computer Science, Harvard University
+Tutorials for CS50's Introduction to Computer Science (Harvard University)
 <br>
 <p>
 ✔️Problem Set 0 - Scratch
