@@ -6,6 +6,8 @@ Tutorials for CS50’s Introduction to Computer Science, Harvard University
 <p>
 ✔️Problem Set 0 - Scratch
 <br>
+🔹 This Scratch project is a basic math quiz designed for kids aged 4-6.
+<br>
 Problem Set 1, Lab 1 - C
 <br>
 Problem Set 2, Lab 2 - Arrays
