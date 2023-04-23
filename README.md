@@ -4,7 +4,7 @@
 Tutorials for CS50’s Introduction to Computer Science, Harvard University
 <br>
 <p>
-Problem Set 0 - Scratch
+✔️Problem Set 0 - Scratch
 <br>
 Problem Set 1, Lab 1 - C
 <br>
