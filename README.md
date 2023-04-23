@@ -1,5 +1,6 @@
 # CS50: Introduction to Computer Science
-
+(Ongoing)
+<p>
 Tutorials for CS50’s Introduction to Computer Science, Harvard University
 <br>
 <p>
