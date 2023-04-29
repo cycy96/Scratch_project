@@ -11,9 +11,9 @@ Problem Set 1, Lab 1 - C
 <br>
 Problem Set 1
 <br>
-🔹  Wrote first program by typing precisely into hello.c
+🔹  Wrote first program in C by typing "Hello, world!" into hello.c.
 <br>
-🔹  Wrote a program in C that prompts the user for a credit card number and then reports whether it is a valid American Express, MasterCard, or Visa card number
+🔹  Wrote a program in C that prompts the user for a credit card number and then reports whether it is a valid American Express, MasterCard, or Visa card number.
 
 <br>
 Lab 1
