@@ -1,3 +1,5 @@
+//Wrote a program in C to calculate the number of years required for the llama population to grow from the start size to the end size.
+
 #include <cs50.h>
 #include <stdio.h>
 
