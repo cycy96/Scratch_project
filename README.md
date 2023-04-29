@@ -11,6 +11,9 @@ Tutorials for CS50's Introduction to Computer Science
   <p>
 Problem Set 1, Lab 1 - C
 <br>
+Lab 1
+🔹 Wrote a program in C to calculate the number of years required for the llama population to grow from the start size to the end size.
+<br>
     <p>
 Problem Set 2, Lab 2 - Arrays
 <br>
