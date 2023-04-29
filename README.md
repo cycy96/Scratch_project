@@ -13,7 +13,7 @@ Problem Set 1
 <br>
 🔹  Wrote first program by typing precisely these lines into hello.c
 <br>
-🔹  Wrote first program by typing precisely these lines into hello.c
+🔹  Wrote a program in C that prompts the user for a credit card number and then reports whether it is a valid American Express, MasterCard, or Visa card number
 
 <br>
 Lab 1
