@@ -2,24 +2,22 @@
 (Ongoing)
 <p>
 Tutorials for CS50's Introduction to Computer Science 
-<br>
 <p>
 ✔️Problem Set 0 - Scratch
 <br>
 🔹 This Scratch project is a basic math quiz designed for kids aged 4-6.
-<br>
-  <p>
+<p>
 Problem Set 1, Lab 1 - C
 <br>
 Problem Set 1
-<p>
+<br>
 🔹  Wrote first program by typing precisely these lines into hello.c
-<p>
+<br>
 🔹  Wrote first program by typing precisely these lines into hello.c
 
 <br>
 Lab 1
-<p>
+<br>
 🔹 Wrote a program in C to calculate the number of years required for the llama population to grow from the start size to the end size.
 <br>
     <p>
