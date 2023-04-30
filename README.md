@@ -12,7 +12,12 @@ Tutorials for CS50's Introduction to Computer Science
 ➤ Problem Set 1
 <br>
 🔹  Wrote first program in C by typing "Hello, world!" into hello.c.
-<br>
+    
+    $ code hello.c
+    $ make hello
+    $ ./hello
+    Hello, world!
+
 🔹  Wrote a program in C by creating a pyramid from Super Mario Brothers into mario.c.
 <br>
 
@@ -37,12 +42,12 @@ Tutorials for CS50's Introduction to Computer Science
 ➤ Lab 1
 <br>
 🔹 Wrote a program in C to calculate the number of years required for the llama population to grow from the start size to the end size.
-    <br>
+     
     $ ./population
     Start size: 100
     End size: 200
     Years: 9
-    <p>
+    
 Problem Set 2, Lab 2 - Arrays
 <br>
       <p>
