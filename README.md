@@ -9,7 +9,7 @@ Tutorials for CS50's Introduction to Computer Science
 <p>
 ✔️Problem Set 1, Lab 1 - C
 <br>
-Problem Set 1
+➤ Problem Set 1
 <br>
 🔹  Wrote first program in C by typing "Hello, world!" into hello.c.
 <br>
@@ -31,7 +31,10 @@ Problem Set 1
     $ ./credit
     Number: 5555555555554444
     MASTERCARD
-Lab 1
+    $ ./credit
+    Number: 6176292929
+    INVALID
+➤ Lab 1
 <br>
 🔹 Wrote a program in C to calculate the number of years required for the llama population to grow from the start size to the end size.
     <br>
