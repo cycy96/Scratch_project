@@ -14,7 +14,17 @@ Problem Set 1
 🔹  Wrote first program in C by typing "Hello, world!" into hello.c.
 <br>
 🔹  Wrote a program in C by creating a pyramid from Super Mario Brothers into mario.c.
-    ![image](https://user-images.githubusercontent.com/127811480/235340479-50aec557-5df6-430f-a1f1-a27745d94399.png)
+
+$ ./mario
+Height: 8
+       #
+      ##
+     ###
+    ####
+   #####
+  ######
+ #######
+########
 
 <br>
 🔹  Wrote a program in C that prompts the user for a credit card number and then reports whether it is a valid American Express, MasterCard, or Visa card number. (credit.c)
