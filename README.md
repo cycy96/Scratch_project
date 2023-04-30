@@ -7,13 +7,14 @@ Tutorials for CS50's Introduction to Computer Science
 <br>
 🔹 This Scratch project is a basic math quiz designed for kids aged 4-6.
 <p>
-Problem Set 1, Lab 1 - C
+✔️Problem Set 1, Lab 1 - C
 <br>
 Problem Set 1
 <br>
 🔹  Wrote first program in C by typing "Hello, world!" into hello.c.
 <br>
 🔹  Wrote a program in C by creating a pyramid from Super Mario Brothers into mario.c.
+    ![pp1](https://user-images.githubusercontent.com/127811480/235340437-9a49afa2-0131-4602-9298-6d76aeacc2ea.png)
 <br>
 🔹  Wrote a program in C that prompts the user for a credit card number and then reports whether it is a valid American Express, MasterCard, or Visa card number. (credit.c)
 
