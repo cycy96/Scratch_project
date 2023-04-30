@@ -47,7 +47,7 @@ int main(void)
     {
         if ((num >= 340000000000000 && num < 350000000000000 ) || (num >= 370000000000000 && num < 380000000000000))
         {
-            printf("AMEX\n");
+            printf("AMERRICAN EXPRESS\n");
         }
         else if (num >= 5100000000000000 && num < 5600000000000000)
         {
