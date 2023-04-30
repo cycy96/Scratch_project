@@ -16,7 +16,16 @@ Problem Set 1
 🔹  Wrote a program in C by creating a pyramid from Super Mario Brothers into mario.c.
 <br>
 ![image](https://raw.githubusercontent.com/127811480/235341063-fedda248-42f5-4af1-b675-ecfa83b2df1c.png)
-
+$ ./mario
+Height: 8
+       #
+      ##
+     ###
+    ####
+   #####
+  ######
+ #######
+########
     <br>
 🔹  Wrote a program in C that prompts the user for a credit card number and then reports whether it is a valid American Express, MasterCard, or Visa card number. (credit.c)
 
