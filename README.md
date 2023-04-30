@@ -15,15 +15,30 @@ Problem Set 1
 <br>
 🔹  Wrote a program in C by creating a pyramid from Super Mario Brothers into mario.c.
 <br>
-![pp1](https://user-images.githubusercontent.com/127811480/235341616-9cb0951a-b4d9-4683-9a5d-eb3c88d1bc3b.png)
-    <br>
-🔹  Wrote a program in C that prompts the user for a credit card number and then reports whether it is a valid American Express, MasterCard, or Visa card number. (credit.c)
 
-<br>
+    $ ./mario
+    Height: 7
+           # 
+          ##
+         ###
+        ####
+       #####
+      ######
+     #######
+   
+🔹  Wrote a program in C that prompts the user for a credit card number and then reports whether it is a valid American Express, MasterCard, or Visa card number. (credit.c)
+    
+    $ ./credit
+    Number: 5555555555554444
+    MASTERCARD
 Lab 1
 <br>
 🔹 Wrote a program in C to calculate the number of years required for the llama population to grow from the start size to the end size.
-<br>
+    <br>
+    $ ./population
+    Start size: 100
+    End size: 200
+    Years: 9
     <p>
 Problem Set 2, Lab 2 - Arrays
 <br>
