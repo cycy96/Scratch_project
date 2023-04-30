@@ -41,7 +41,7 @@ Tutorials for CS50's Introduction to Computer Science
     INVALID
 ➤ Lab 1
 <br>
-🔹 Wrote a program in C to calculate the number of years required for the llama population to grow from the start size to the end size.
+🔹 Wrote a program in C to calculate the number of years required for the llama population to grow from the start size to the end size. (population.c)
      
     $ ./population
     Start size: 100
