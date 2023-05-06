@@ -50,7 +50,10 @@ Tutorials for CS50's Introduction to Computer Science
     
 Problem Set 2, Lab 2 - Arrays
 <br>
-      <p>
+➤ Lab 2
+<br>
+🔹 Wrote a program in C to determine the winner of a short scrabble-like game, where two players each enter their word, and the higher scoring player wins.
+   <p>
 Problem Set 3, Lab 3 - Algorithms
 <br>
         <p>
